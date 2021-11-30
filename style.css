@@ -135,6 +135,8 @@
     color: black;
     text-align: center;
     height: 60px;
+    display: flex;
+    justify-content: space-around;
 }
 
 .bot{
@@ -143,6 +145,8 @@
     display: block;
     justify-content: space-around;
     margin-bottom: 20px;
+    font-size: 10px;
+    margin-left: 5px;
 }
 
 #boto{
@@ -150,6 +154,9 @@
     justify-content: space-between;
 }
 
+img{
+  border-radius: 10px;
+}
 
 
 
